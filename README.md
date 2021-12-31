@@ -3,6 +3,10 @@ Anggota Kelompok :
 * Rasfy Shauma Moisa Asda (201910370311445)
 * Kurnia Putera Bagaskara (201910370311422)
 
+# Paper utama
+* Paper referensi utama yang digunakan adalah Haryono, K. Anam, dan A. Saleh (2020), Autentikasi Daun Herbal Menggunakan Convolutional Neural
+Network dan Raspberry Pi, Jurnal Nasional Teknik Elektro dan Teknologi Informasi, Vol. 9, No. 3, Agustus 2020
+https://www.researchgate.net/publication/343938910_Autentikasi_Daun_Herbal_Menggunakan_Convolutional_Neural_Network_dan_Raspberry_Pi
 # Bagian untuk cek dataset
 ```
 import os
