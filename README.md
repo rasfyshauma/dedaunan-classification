@@ -179,4 +179,3 @@ plt.legend()
 
 plt.show()
 ```
-![Screenshot](Screenshot (799).png)
