@@ -1,7 +1,7 @@
 # dedaunan-classification
 Anggota Kelompok :
-Rasfy Shauma Moisa Asda (201910370311445)
-Kurnia Putera Bagaskara (201910370311422)
+* Rasfy Shauma Moisa Asda (201910370311445)
+* Kurnia Putera Bagaskara (201910370311422)
 
 # Bagian untuk cek dataset
 ```
@@ -157,6 +157,7 @@ history = model.fit(
 ```
 
 # Evaluasi Model
+```
 import matplotlib.pyplot as plt
 acc = history.history['acc']
 val_acc = history.history['val_acc']
